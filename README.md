@@ -1,7 +1,7 @@
 # Mohemian Homebrew Tap
 
 ## What the tap contains
-1. [Lokalise CLI Tool](https://lokalise.co)
+1. [Lokalise CLI Tool](http://docs.lokalise.co/en/topic/Lokalise-CLI-tool)
 
 ## How to install a formula
 1. In a command line use `brew tap mohemian/homebrew-repo `
